@@ -65,3 +65,12 @@ Additionally, you will use GitHub's pull request and issue tracking features for
 # 🖥️ Setup & Installation
 
 To get started with the project, follow these steps to clone the repository, set up your development environment, and begin working with Git.
+
+### Step 1: Clone the Repository
+
+Clone the project to your local machine:
+
+|
+git clone https://github.com/Thoeurnbunthen/git-assessment-skill-1-level-2-.git
+cd git-assessment
+|
