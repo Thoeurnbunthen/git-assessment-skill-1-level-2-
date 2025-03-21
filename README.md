@@ -4,25 +4,25 @@
 
 # 📜 Table of Contents
 
-. Introduction
+. [Introduction]()
 
-. Project Overview
+. [Project Overview]()
 
-. Technologies Used
+. [Technologies Used]()
 
-. Setup & Installation
+. [Setup & Installation]()
 
-. Branching Strategy
+. [Branching Strategy]()
 
-. Git Workflow
+. [Git Workflow]()
 
-. Pull Request & Merge Conflict Resolution
+. [Pull Request & Merge Conflict Resolution]()
 
-. Contributing
+. [Contributing]()
 
-. License
+. [License]()
 
-. Next Steps
+. [Next Steps]()
 
 # 📌 Introduction
 
